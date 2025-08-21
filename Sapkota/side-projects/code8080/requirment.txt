@@ -1,0 +1,13 @@
+transformers
+torch
+torchvision
+pylint
+flake8
+black
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow
+jupyter
+requests

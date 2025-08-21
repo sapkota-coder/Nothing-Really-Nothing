@@ -1,0 +1,9 @@
+pip install pillow
+pip install python-docx
+pip install openpyxl
+pip install psutil
+pip install requests
+pip install pywifi
+pip install opencv-python
+pip install pandas
+pip install matplotlib
